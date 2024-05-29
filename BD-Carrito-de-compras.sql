@@ -1,9 +1,12 @@
+
 CREATE DATABASE DBCARRITO
 GO
 
 USE DBCARRITO
 GO
 
+-- Creación de las Tablas y Constraints
+-- -----------------------------------------
 CREATE TABLE CATEGORIA(
 IdCategoria INT PRIMARY KEY IDENTITY (1,1),
 Descripcion VARCHAR(100),
@@ -129,3 +132,13 @@ Clave VARCHAR (100),
 Reestablecer BIT DEFAULT 1, 
 Activo BIT DEFAULT 1, 
 FechaRegistro DATETIME DEFAULT GETDATE()
+)
+GO
+
+CREATE TABLE MARCA(
+IdMarca INT PRIMARY KEY IDENTITY(1,1),
+Descripcion VARCHAR (100), 
+Activo BIT DEFAULT 1,
+FechaRegistro DATETIME DEFAULT GETDATE()
+)
+GO
