@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2jv9X4aqQ5SLMNzyytyuZOFl0THq1JDNrWWBgHi+v5fk2MbG4IG872J13GiO9Kxzmr9gDyEIIJOqQUkILQq6ig==",
+  "dgSpecHash": "0k9Ga49+FZ/mOIkxJZdu5PFPTYf/vRmb3M+YKqohMpF4rb/n5p8EXkRNpOQai7myE3yYT0ZjiToUwEb0W8XeHA==",
   "success": true,
   "projectFilePath": "C:\\Users\\rossi\\source\\repos\\AppWeb\\AppWeb\\AppWeb.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\rossi\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512",
     "C:\\Users\\rossi\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\rossi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\rossi\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",
